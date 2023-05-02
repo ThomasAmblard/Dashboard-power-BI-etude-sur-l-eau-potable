@@ -31,5 +31,4 @@
 
 - Blueprint (format Word ou équivalent)
 - Mockup de tableau de bord (format libre)
-- Présentation du projet (Powerpoint ou équivalent) incluant des éléments de contexte, le prétraitement des données, la pertinence de l'outil de visualisation, etc.
 - Dashboard (lien vers l'histoire Tableau sur Tableau Public et exportation au format PDF ou image, ou version PowerBI du projet en fichier .pbix)
