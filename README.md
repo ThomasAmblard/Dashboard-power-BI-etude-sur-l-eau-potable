@@ -5,7 +5,7 @@
 - Analyse du besoin client et identification des indicateurs pertinents pour chaque domaine d'expertise.
 - Préparation et traitement des données fournies par le Data Engineer, y compris l'extraction d'informations supplémentaires si nécessaire.
 - Création d'un blueprint et de mockups pour présenter la structure et les visualisations du tableau de bord.
-- Développement du tableau de bord avec Tableau ou PowerBI, en mettant l'accent sur une visualisation claire et compréhensible des indicateurs sélectionnés.
+- Développement du tableau de bord avec PowerBI, en mettant l'accent sur une visualisation claire et compréhensible des indicateurs sélectionnés.
 - Préparation d'une présentation pour expliquer le contexte, les choix de visualisation et les résultats obtenus.
 
 ## Compétences développées et éléments justificatifs:
