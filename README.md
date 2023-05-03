@@ -11,7 +11,7 @@
 ## Compétences développées et éléments justificatifs:
 
 - Analyse des besoins et formulation de questions analytiques.Cette compétence a été développée lors de l'étape de planification du projet, où j'ai discuté avec les parties prenantes pour comprendre leurs besoins en matière d'analyse de l'eau potable. J'ai formulé des questions analytiques claires et spécifiques pour guider mes analyses.
-- Gestion et préparation des données pour l'analyse. J'ai travaillé avec des données volumineuses provenant de plusieurs sources différentes pour ce projet. J'ai utilisé des outils comme Excel et SQL pour nettoyer et préparer les données en vue de l'analyse.
+- Gestion et préparation des données pour l'analyse. J'ai travaillé avec des données volumineuses provenant de plusieurs sources différentes pour ce projet. J'ai utilisé powerquery pour nettoyer et préparer les données en vue de l'analyse.
 - Création de visualisations efficaces et adaptées aux types de données. J'ai créé des visualisations claires et efficaces pour communiquer les résultats de mes analyses aux parties prenantes. J'ai utilisé des graphiques, des tableaux et des cartes pour présenter les données de manière à ce qu'elles soient faciles à comprendre pour tous.
 - Utilisation de PowerBI pour créer des tableaux de bord interactifs.
 - Communication claire et synthèse des résultats pour les parties prenantes.
